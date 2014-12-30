@@ -1,6 +1,6 @@
 
 
-<a href="https://cloud.githubusercontent.com/assets/1288637/5566593/a64ba4bc-8ee2-11e4-8612-28191f82fdd1.png" target="_blank"><img src="https://cloud.githubusercontent.com/assets/1288637/5566593/a64ba4bc-8ee2-11e4-8612-28191f82fdd1.png" alt="Alt text" width="40%" height="40%" style="max-width:40%;"></a>
+<a href="https://cloud.githubusercontent.com/assets/1288637/5576273/a33895e0-8fab-11e4-96e1-212b3a1d9e69.jpg" target="_blank"><img src="https://cloud.githubusercontent.com/assets/1288637/5576273/a33895e0-8fab-11e4-96e1-212b3a1d9e69.jpg" alt="Alt text" width="40%" height="40%" style="max-width:40%;"></a>
 ========================
 
 <b><a href = "https://www.csc.uvic.ca/">UVic Dept of Computer Science</a>
