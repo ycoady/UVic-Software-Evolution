@@ -1,5 +1,4 @@
-UVic-Software-Evolution
-=======================
+
 
 <a href="https://cloud.githubusercontent.com/assets/1288637/5566593/a64ba4bc-8ee2-11e4-8612-28191f82fdd1.png" target="_blank"><img src="https://cloud.githubusercontent.com/assets/1288637/5566593/a64ba4bc-8ee2-11e4-8612-28191f82fdd1.png" alt="Alt text" width="40%" height="40%" style="max-width:40%;"></a>
 ========================
