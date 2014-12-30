@@ -7,7 +7,7 @@ UVic-Software-Evolution
 <b><a href = "https://www.csc.uvic.ca/">UVic Dept of Computer Science</a>
 SEng 371 Spring 2015!</b>
 
-Welcome to our extravaganza in SEng 371, Software (R)evolution!  This course is for fearless 3rd year <a href = "http://courses.seng.uvic.ca/courses/2012/fall/seng/371">undergrads</a>.  
+Welcome to our extravaganza in SEng 371, Software (R)evolution!  This course is for fearless 3rd year <a href = "http://courses.seng.uvic.ca/courses/2015/spring/seng/371">undergrads</a>.  
 
 <table>
 <thead>
