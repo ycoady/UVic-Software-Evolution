@@ -26,7 +26,7 @@ Welcome to our extravaganza in SEng 371, Software (R)evolution!  This course is 
 <tr>
 <td>Jan 7</td>
 <td>
-Intro to <a href="http://dl.acm.org/citation.cfm?id=2080.357392">bla la</a> 
+Intro to <a href="http://resources.sei.cmu.edu/asset_files/Book/2006_014_001_30542.pdf">Ultra Large Scale</a> Systems 
 </td>
 <td>do somthing fantastic</td>
 <tr>
