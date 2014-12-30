@@ -19,10 +19,16 @@ Welcome to our extravaganza in SEng 371, Software (R)evolution!  This course is 
 <tbody>
 <tr>
 <td>Jan 5</td>
-<td>Intro and basics of <a href="http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html">Distributed Systems</a>
+<td>Intro and basics of <a href="http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html">Software Evolution</a>
 </td>
 <td>Exercises</td>
 </tr>
+<tr>
+<td>Jan 7</td>
+<td>
+Intro to <a href="http://dl.acm.org/citation.cfm?id=2080.357392">bla la</a> 
+</td>
+<td>do somthing fantastic</td>
 <tr>
 <td>Jan 8</td>
 <td>
