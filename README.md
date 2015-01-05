@@ -21,14 +21,14 @@ Welcome to our extravaganza in SEng 371, Software (R)evolution!  This course is 
 <td>Jan 5</td>
 <td> <a href="https://archive.org/stream/mythicalmanmonth00fred#page/n0/mode/2up">The Mythical Man Month</a>
 </td>
-<td>Read The Tar Pit from MMM</td>
+<td>Post comments on The Tar Pit from MMM</td>
 </tr>
 <tr>
 <td>Jan 7</td>
 <td>
 Discussion of the Tar Pit, and intro to <a href="http://resources.sei.cmu.edu/asset_files/Book/2006_014_001_30542.pdf">Ultra Large Scale</a> Systems 
 </td>
-<td>Read Chapter 1 from ULSS</td>
+<td>Post comments on Chapter 1 from ULSS</td>
 <tr>
 <td>Jan 8</td>
 <td>
