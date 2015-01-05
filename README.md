@@ -34,7 +34,7 @@ Discussion of the Tar Pit, and intro to <a href="http://resources.sei.cmu.edu/as
 <td>
 Discussion of ULS Systems and Lab 1
 </td>
-<td>Prepare for Lab</td>
+<td>Chapter 2 MMM, Prepare for Lab</td>
 </tr>
 <tr>
 </tbody>
