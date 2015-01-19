@@ -37,5 +37,11 @@ Discussion of ULS Systems and Lab 1
 <td>Chapter 2 MMM, Prepare for Lab</td>
 </tr>
 <tr>
+<td>Jan 19</td>
+<td>
+Discussion of Laws of Evolution
+</td>
+<td>Read and post comments on the <a href="http://flosshub.org/sites/flosshub.org/files/2013HerraizRRG_CSUR.pdf">evoluton</a> of the laws!</td>
+</tr>
 </tbody>
 </table>
