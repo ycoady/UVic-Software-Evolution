@@ -55,7 +55,7 @@ Discussion of ULS
 <td>
 Discussion of Laws of Evolution
 </td>
-<td>Part 1!</td>
+<td>Post Comments on MMM Chapter 2</td>
 </tr>
 <tr>
 <td>Jan 19</td>
