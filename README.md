@@ -37,6 +37,27 @@ Discussion of ULS Systems and Lab 1
 <td>Chapter 2 MMM, Prepare for Lab</td>
 </tr>
 <tr>
+<td>Jan 12</td>
+<td>
+Autonomic Andi!
+</td>
+<td>Prepare for Lab 1</td>
+</tr>
+<tr>
+<td>Jan 15</td>
+<td>
+Discussion of ULS
+</td>
+<td>Do not need to post</td>
+</tr>
+<tr>
+<td>Jan 15</td>
+<td>
+Discussion of Laws of Evolution
+</td>
+<td>Part 1!</td>
+</tr>
+<tr>
 <td>Jan 19</td>
 <td>
 Discussion of Laws of Evolution
