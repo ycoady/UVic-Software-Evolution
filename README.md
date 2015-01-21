@@ -44,7 +44,7 @@ Autonomic Andi!
 <td>Prepare for Lab 1</td>
 </tr>
 <tr>
-<td>Jan 15</td>
+<td>Jan 14</td>
 <td>
 Discussion of ULS
 </td>
