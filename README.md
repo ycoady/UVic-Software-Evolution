@@ -69,8 +69,8 @@ Discussion of Laws of Evolution
 <td>
 Brooks' Law Debate!
 </td>
-<td>Reading from CMU <a href="http://www.sei.cmu.edu/library/assets/brooks1.pdf"></a>Changing Counterproductive
-Behaviors in Real Acquisitions</td>
+<td>Reading from CMU <a href="http://www.sei.cmu.edu/library/assets/brooks1.pdf">Changing Counterproductive
+Behaviors in Real Acquisitions</a></td>
 </tr>
 <tr>
 <td>Jan 22</td>
