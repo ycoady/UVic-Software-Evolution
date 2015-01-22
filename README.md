@@ -64,5 +64,20 @@ Discussion of Laws of Evolution
 </td>
 <td>Read and post comments on the <a href="http://flosshub.org/sites/flosshub.org/files/2013HerraizRRG_CSUR.pdf">evoluton</a> of the laws!</td>
 </tr>
+<tr>
+<td>Jan 21</td>
+<td>
+Brooks' Law Debate!
+</td>
+<td>Reading from CMU <a href="http://www.sei.cmu.edu/library/assets/brooks1.pdf"></a>Changing Counterproductive
+Behaviors in Real Acquisitions</td>
+</tr>
+<tr>
+<td>Jan 22</td>
+<td>
+Project Mania!
+</td>
+<td>Questions and Data</td>
+</tr>
 </tbody>
 </table>
