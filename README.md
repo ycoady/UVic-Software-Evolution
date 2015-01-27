@@ -18,3 +18,5 @@ Jan 15  | Discussion of Laws of Evolution | Post Comments on MMM Chapter 2
 Jan 19  | Discussion of Laws of Evolution | Read and post comments on the [evolution](http://flosshub.org/sites/flosshub.org/files/2013HerraizRRG_CSUR.pdf) of the laws!
 Jan 21  | Brooks' Law Debate!    | Reading from CMU [Changing Counterproductive Behaviors in Real Acquisitions](http://www.sei.cmu.edu/library/assets/brooks1.pdf)
 Jan 22  | Project Mania!         | Questions and Data
+Jan 26  | Evolution of the Laws of Evolution (cont!) |  Prepare for Lab and think Projects!
+Jan 28  | Software Evolution "now" |  Read and post on Past, Present and Future [http://www.academia.edu/7296972/Software_Evolution_Past_Present_and_Future]
