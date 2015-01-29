@@ -20,3 +20,4 @@ Jan 21  | Brooks' Law Debate!    | Reading from CMU [Changing Counterproductive 
 Jan 22  | Project Mania!         | Questions and Data
 Jan 26  | Evolution of the Laws of Evolution (cont!) |  Prepare for Lab and think Projects!
 Jan 28  | Software Evolution "now" |  Read and post on [Past, Present and Future] (http://www.academia.edu/7296972/Software_Evolution_Past_Present_and_Future) and Chapter 3 MMM
+Jan 29  | Socio-Technical Ecosystems  | Your Projects!
