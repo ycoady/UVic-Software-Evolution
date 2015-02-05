@@ -21,3 +21,6 @@ Jan 22  | Project Mania!         | Questions and Data
 Jan 26  | Evolution of the Laws of Evolution (cont!) |  Prepare for Lab and think Projects!
 Jan 28  | Software Evolution "now" |  Read and post on [Past, Present and Future] (http://www.academia.edu/7296972/Software_Evolution_Past_Present_and_Future) and Chapter 3 MMM
 Jan 29  | Socio-Technical Ecosystems  | Your Projects!
+Feb 2   | MicroSoft (Rob) | Post comments on Chapter 4 MMM
+Feb 4   | HootSuite (Adam and Toby)  |  Post comments on skills and UVic...
+Feb 5   | Data sets for [Software Evolution] (http://www.academia.edu/7463067/Understanding_Software_Evolution_The_Maisqual_Ant_Data_Set) | Don't forget to post!
