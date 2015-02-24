@@ -24,3 +24,10 @@ Jan 29  | Socio-Technical Ecosystems  | Your Projects!
 Feb 2   | MicroSoft (Rob) | Post comments on Chapter 4 MMM
 Feb 4   | HootSuite (Adam and Toby)  |  Post comments on skills and UVic...
 Feb 5   | Data sets for [Software Evolution] (http://www.academia.edu/7463067/Understanding_Software_Evolution_The_Maisqual_Ant_Data_Set) | Don't forget to post!
+Feb 9/11/12 | Reading Break and Project extravaganza! |
+Feb 16 | Project Scrum | What is your biggest obstacle?
+Feb 18 | Midterm review |  Mythical Man Month chapters and Evolution readings
+Feb 19 | Midterm |
+Feb 23 | Contructing the Dream Recruiting Event! |  Inverted Career Fair (save the date, April 21 7pm!)
+Feb 25 | Samsung (Frank Tip) | ECS 660 for class!
+Mar 2/4/5 | Project 1 Presentations!  |  10 minutes, laptop/blackboard
