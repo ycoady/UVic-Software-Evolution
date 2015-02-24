@@ -29,5 +29,6 @@ Feb 16 | Project Scrum | What is your biggest obstacle?
 Feb 18 | Midterm review |  Mythical Man Month chapters and Evolution readings
 Feb 19 | Midterm |
 Feb 23 | Contructing the Dream Recruiting Event! |  Inverted Career Fair (save the date, April 21 7pm!)
-Feb 25 | Samsung (Frank Tip) | ECS 660 for class!
+Feb 25 | Samsung (Frank Tip) | ECS 660 for [talk] (https://github.com/ycoady/UVic-Software-Evolution/blob/master/TALKS/FrankTip.md)!
 Mar 2/4/5 | Project 1 Presentations!  |  10 minutes, laptop/blackboard
+Mar 19  | CMU (Jim Herbsleb) | Note 1:30-3:00 ECS 660 for this [talk] (https://github.com/ycoady/UVic-Software-Evolution/blob/master/TALKS/JimHerbsleb.md)
