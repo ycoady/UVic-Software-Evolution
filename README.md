@@ -31,4 +31,4 @@ Feb 19 | Midterm |
 Feb 23 | Contructing the Dream Recruiting Event! |  Inverted Career Fair (save the date, April 21 7pm!)
 Feb 25 | Samsung (Frank Tip) | ECS 660 for [talk] (https://github.com/ycoady/UVic-Software-Evolution/blob/master/TALKS/FrankTip.md)!
 Mar 2/4/5 | Project 1 Presentations!  |  10 minutes, laptop/blackboard
-Mar 9  | Is [refactoring] (http://arxiv.org/pdf/1502.03526v1.pdf) worth it?  Software [story lines] (http://vis.cs.ucdavis.edu/papers/softvis2010.pdf) | Post for Wed!
+Mar 9  | Is [refactoring] (http://arxiv.org/pdf/1502.03526v1.pdf) worth it?  Software [story lines] (http://vis.cs.ucdavis.edu/papers/softvis2010.pdf) | Discussion of [inline] (http://number-none.com/blow/john_carmack_on_inlined_code.html), and post for Wed!
