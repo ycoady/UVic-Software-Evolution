@@ -33,3 +33,5 @@ Feb 25 | Samsung (Frank Tip) | ECS 660 for [talk] (https://github.com/ycoady/UVi
 Mar 2/4/5 | Project 1 Presentations!  |  10 minutes, laptop/blackboard
 Mar 9  | Is [refactoring] (http://arxiv.org/pdf/1502.03526v1.pdf) worth it?   | Cool discussion of [inline] (http://number-none.com/blow/john_carmack_on_inlined_code.html), and post for Wed!
 Mar 11 | Software [story lines] (http://vis.cs.ucdavis.edu/papers/softvis2010.pdf) | Post for Fri!
+Mar 12 | Evolving Project 1! | How will you measure the efficacy of your plan?
+Mar 16 | [Untangling Fine Grained Changes] (http://www.gousios.gr/pub/fine-untangling.pdf) | Post for Wed!
