@@ -36,4 +36,7 @@ Mar 11 | Software [story lines] (http://vis.cs.ucdavis.edu/papers/softvis2010.pd
 Mar 12 | Evolving Project 1! | How will you measure the efficacy of your plan?
 Mar 16 | [Socio-technical Coordination] (https://www.youtube.com/watch?v=v0CSnYvd0C4#t=1857) | Come to the talk if you can!
 Mar 18 | [Untangling Fine Grained Changes] (http://www.gousios.gr/pub/fine-untangling.pdf) | Post for Friday!
+Mar 23 | sendwithus tutorial for Heroku |  Please bring a laptop!
+Mar 25 | [Untangling Fine Grained Changes] (http://www.gousios.gr/pub/fine-untangling.pdf) and Midterm Review | Midterm Thurs!
+Mar 26 | Midterm II | 
 Mar 30, Apr 1, 2 |  Final project presentations |
